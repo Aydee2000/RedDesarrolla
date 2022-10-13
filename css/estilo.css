@@ -175,7 +175,12 @@ margin-bottom: 15px;
 }
 
 /* Clientes */
-
+.clientes{
+    padding: 5px;
+    width: 10%;
+    height: 10%;
+    border-radius: 100px;
+}
 /*estilos generales*/
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
