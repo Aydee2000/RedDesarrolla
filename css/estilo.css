@@ -193,7 +193,7 @@ justify-content: space-evenly;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
 }
 
-.cards .card .img{
+.cards .card img{
     width: 100px;
     height: 100px;
     object-fit: cover;
