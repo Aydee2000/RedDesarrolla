@@ -2,10 +2,12 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body{
     font-family: "open sans";
+    
 }
 
 .contenedor{
@@ -91,6 +93,7 @@ header .textos-header{
 
 .imagen-about-us{
     width: 68%;
+    margin-right: 10px;
 }
 
 .sobre-nostros .contenido-textos{
@@ -108,7 +111,7 @@ margin-bottom: 15px;
     display: inline-block;
     text-align: center;
     width: 30px;
-    height: 30px;
+    
     padding: 2px;
     box-shadow: 0 0 6px rgba(0, 0, 0, .5);
     margin-right: 5px;
@@ -118,6 +121,7 @@ margin-bottom: 15px;
     padding: 0px 0px 30px 15px;
     font-weight: 300;
     text-align: justify;
+    margin-top: -60px;
 }
 
 /* Galeria */
