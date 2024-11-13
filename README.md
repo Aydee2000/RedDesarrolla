@@ -1,4 +1,4 @@
-![Captura de pantalla de RedDesarrolla](/img/captura-de-pantalla.jpeg)
+![Captura de pantalla de RedDesarrolla](/img/Captura-de-pantalla.jpeg)
 
 
 # 🚀 **RedDesarrolla** - Página Web de Muestra para Demostración de Habilidades
